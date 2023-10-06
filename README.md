@@ -2,9 +2,8 @@
 A Passenger Total Fare Calculator using Python with Exception Handling.
 
 PROGRAM DESCRIPTION:
-A passenger whose passenger type is S,E or D is charged the minimum fare (P7) for the 1 st 4 km and
-additional 1 peso for every succeeding km while a passenger type of R is charged P9 for the 1 st 4 km and
-1 peso for every succeeding km.
+A passenger whose passenger type is S(Student),E(Elderly), R(Regular), or D(Disabled Person) is charged the minimum fare (P7) for the 1 st 4 km and additional 1 peso for every succeeding km while a passenger type of R is charged P9 for the 1 st 4 km and 1 peso for every succeeding km.
+
 Sample run:
 Enter passenger type : d
 Enter distance in km : 10
